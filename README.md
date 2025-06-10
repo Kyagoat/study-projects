@@ -11,7 +11,7 @@ A collection of my academic projects with detailed descriptions and links to eac
 ---
 
 ## 🚀 **R4-02 Development Quality Project** – Code Quality & Testing in Rust
-**Description:** Multi-module Rust project focusing on software quality principles including palindrome detection algorithms, 2D geometry library with mathematical operations, social epidemiological simulation with interactive GUI, and intelligent game bot with TCP networking and combat AI.
+- **Description:** Multi-module Rust project focusing on software quality principles including palindrome detection algorithms, 2D geometry library with mathematical operations, social epidemiological simulation with interactive GUI, and intelligent game bot with TCP networking and combat AI.
 - **Technologies:** Rust, egui/eframe, WebAssembly, serde/JSON, TCP sockets, Cargo  
 - 🔗 [View on GitHub](https://github.com/Kyagoat/study_dev_quality)
 
