@@ -21,6 +21,6 @@ A collection of my academic projects with detailed descriptions and links to eac
 - **Description:** Comprehensive transport management system for managing a transport company (CTVR) with features for accident management, driver management, vehicle tracking, and administrative operations. Dual implementation with both Java Spring Boot and PHP architectures.
 
 - **Technologies:** Java, Spring Boot, PHP, MySQL, HTML/CSS, JavaScript, Maven, JPA/Hibernate  
-- 🔗 [View on GitHub]([https://github.com/Kyagoat/study_dev_quality])
+- 🔗 [View on GitHub](https://github.com/Kyagoat/study_dev_quality)
 
 ---
