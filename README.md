@@ -17,10 +17,18 @@ A collection of my academic projects with detailed descriptions and links to eac
 
 ---
 
-## 🚌 **SAE S3 CTVR - Transport Management System**
+## 🚌 **SAE S3 CTVR - Bus Crash Management System**
 - **Description:** Comprehensive transport management system for managing a transport company (CTVR) with features for accident management, driver management, vehicle tracking, and administrative operations. Dual implementation with both Java Spring Boot and PHP architectures.
 
 - **Technologies:** Java, Spring Boot, PHP, MySQL, HTML/CSS, JavaScript, Maven, JPA/Hibernate  
 - 🔗 [View on GitHub](https://github.com/Kyagoat/study_sae_s3_ctvr)
+
+---
+
+## 🚄 **IHM TP4 - DirectTrain Web Application**
+- **Description:** Educational web application demonstrating API integration and responsive web development using vanilla JavaScript. Train booking simulation system with search functionality, cart management, and user authentication. Focuses on understanding RESTful API communication, DOM manipulation, and modern web development techniques without frameworks.
+
+- **Technologies:** HTML5, CSS3, JavaScript (ES6+), Fetch API, sessionStorage, SVG, Responsive Design  
+- 🔗 [View on GitHub](https://github.com/Kyagoat/study_web-api-integration)
 
 ---
