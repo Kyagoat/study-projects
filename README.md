@@ -3,9 +3,15 @@ A collection of my academic projects with detailed descriptions and links to eac
 
 ---
 
+## Algorithme Programming Project - Ants Colony and Q-learning
+- **Description:** A study project written in Rust that aims to integrate Q-learning into an ant colony.
+- **Technologies:** Rust, Eframe
+- [View on Github](https://github.com/Kyagoat/study_ants)
+
+
 ##  Operating Systems Programming Project – Systems Programming in C
-- **Description**: Comprehensive collection of OS exercises covering process management, multi-threading with 300+ concurrent entities, synchronization mechanisms (mutex/semaphores), file I/O with PPM image processing, and TCP network programming.
-- **Technologies**: C, POSIX threads, Allegro 5, TCP sockets, Make
+- **Description:** Comprehensive collection of OS exercises covering process management, multi-threading with 300+ concurrent entities, synchronization mechanisms (mutex/semaphores), file I/O with PPM image processing, and TCP network programming.
+- **Technologies:** C, POSIX threads, Allegro 5, TCP sockets, Make
 -  [View on GitHub](https://github.com/Kyagoat/study_C)
 
 ---
